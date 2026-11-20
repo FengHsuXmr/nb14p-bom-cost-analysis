@@ -1,0 +1,15 @@
+﻿項目,內容
+RFQ編號,RFQ-NB14P-2026Q4
+客戶,Lumen Computing（虛構品牌）
+機種,NB-14P 14吋輕薄商務筆電
+年用量 EAU（台）,300000
+產品生命週期,18 個月
+BOM 目標成本（USD/台）,560.0
+CPU,x86 行動處理器，TDP 28W
+記憶體,LPDDR5X 16GB 板載（4 顆）
+儲存,M.2 2280 PCIe Gen4 SSD 512GB
+面板,14吋 2.8K OLED 120Hz
+電池,57Wh 3S1P 鋰聚合物
+機殼,A/C/D 件鋁合金，B 件塑膠
+目標重量,1.25 kg 以下
+幣別,USD
